@@ -1,4 +1,4 @@
-# RNA Secondary Structure Prediction 🧬
+# RNA Secondary Structure Prediction 
 
 **Tool Used:** [RNAfold – ViennaRNA Web Server](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi)  
 **Goal:** Predict gRNA folding patterns that may hinder Cas protein binding. Ideal guides should remain **mostly linear**, avoiding internal pairing or hairpins in the seed region.
@@ -20,7 +20,7 @@
 
 ## Detailed Interpretations
 
-### 🔹 gRNA1
+### gRNA1
 - **Sequence**: AGGACCCACAGGAGCGACCCAGA
 - **Minimum Free Energy (MFE)**: –0.90 kcal/mol
 - **Structure**:  
@@ -32,7 +32,7 @@
 
 ---
 
-### 🔹 gRNA2
+### gRNA2
 - **Sequence**: UGCAUAGUAUAUAGAGAUGGGAA
 - **MFE**: 0.00 kcal/mol
 - **Structure**:  
@@ -44,7 +44,7 @@
 
 ---
 
-### 🔹 gRNA3
+### gRNA3
 - **Sequence**: CAGCUCUGUGCAUAACUGUGGUA
 - **MFE**: –1.30 kcal/mol
 - **Structure**:  
@@ -54,7 +54,7 @@
 - **Interpretation**: Might affect binding efficiency depending on guide design and target.
 -  **Verdict**: Use with caution or redesign if performance is poor.
 
-🔹 gRNA4
+### gRNA4
 - **Sequence**: UAUGGAACAACAUUAGAACAGCA
 - **MFE**: –0.30 kcal/mol
 - **Dot-Bracket**: `.(((......)))..........`
@@ -65,7 +65,7 @@
 
 ---
 
-### 🔹 gRNA5
+### gRNA5
 - **Sequence**: CACAUACAGCAUAUGGAUUCCC
 - **MFE**: –0.50 kcal/mol
 - **Dot-Bracket**: `..((((.....)))).......`
@@ -76,7 +76,7 @@
 
 ---
 
-### 🔹 gRNA6
+###  gRNA6
 - **Sequence**: ACAGUUAAUACACCUAAUUAACA
 - **MFE**: –2.40 kcal/mol
 - **Dot-Bracket**: `...((((((.......)))))).`
