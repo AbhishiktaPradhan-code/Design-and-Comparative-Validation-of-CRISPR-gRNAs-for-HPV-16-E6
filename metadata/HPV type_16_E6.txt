@@ -1,0 +1,10 @@
+
+Target gene: E6
+Organism: Human papillomavirus type 16 (HPV-16)
+Accession ID: NC_001526.4
+Gene location: 7075–7651 (includes 50 bp flanking regions)
+Strand: Forward
+Length: 541 bp
+Source: NCBI GenBank
+Date accessed: June 2, 2025
+Reference: https://www.ncbi.nlm.nih.gov/nuccore/NC_001526.4?report=fasta&from=7125&to=7601
