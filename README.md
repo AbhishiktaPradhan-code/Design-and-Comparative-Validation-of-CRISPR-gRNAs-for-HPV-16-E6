@@ -5,7 +5,7 @@ A complete **in silico design and validation** of guide RNAs (gRNAs) targeting t
 ---
 See full summary in:
 
-📄 [Full Project Report](https://github.com/AbhishiktaPradhan-code/Design-and-Comparative-Validation-of-CRISPR-gRNAs-for-HPV-16-E6/blob/main/HPV16_CRISPR_Cas12_Diagnostic_Design_Report.pdf)
+📄 [Full Project Report](https://github.com/AbhishiktaPradhan-code/Design-and-Comparative-Validation-of-CRISPR-gRNAs-for-HPV-16-E6/blob/main/Project_Report.pdf)
 
 
 
